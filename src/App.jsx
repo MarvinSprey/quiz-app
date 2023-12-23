@@ -1,5 +1,5 @@
 import "./App.css"
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { Card } from "./components/Card"
 import questionsData from "./questions.json"
 
@@ -9,7 +9,9 @@ function App() {
   const [amount, setAmount] = useState(0)
   const currentQuestion = questionsData[currentQuestionIndex]
 
-  document.title = "Quiz-App"
+  useEffect(() => {
+    document.title = "Quiz-App"
+  }, [])
 
   function handleAnswerClick(submittedAnswer) {
     if (submittedAnswer === currentQuestion.correctAnswer) {
