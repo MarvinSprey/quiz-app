@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "title": "Frage 1",
+    "question": "Welche Art von künstlicher Intelligenz wird verwendet, um maschinelles Lernen ohne explizite Programmierung zu ermöglichen?",
+    "image": "images/1.jpg",
+    "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Deep Learning"
+    ],
+    "correctAnswer": "Unsupervised Learning"
+  },
+  {
+    "id": 2,
+    "title": "Frage 2",
+    "question": "Was ist der Hauptzweck von Natural Language Processing (NLP)?",
+    "image": "images/2.jpg",
+    "options": [
+      "Emotionserkennung",
+      "Sprachübersetzung",
+      "Gesichtserkennung",
+      "Objekterkennung"
+    ],
+    "correctAnswer": "Sprachübersetzung"
+  },
+  {
+    "id": 3,
+    "title": "Frage 3",
+    "question": "Welche KI-Technik wird verwendet, um zukünftige Ereignisse basierend auf historischen Daten vorherzusagen?",
+    "image": "images/3.jpg",
+    "options": ["Regression", "Classification", "Clustering", "Forecasting"],
+    "correctAnswer": "Forecasting"
+  },
+  {
+    "id": 4,
+    "title": "Frage 4",
+    "question": "Was ist das Hauptmerkmal von Reinforcement Learning?",
+    "image": "images/4.jpg",
+    "options": [
+      "Supervision durch Trainingsdaten",
+      "Belohnungsbasiertes Lernen",
+      "Unüberwachtes Lernen",
+      "Anpassung an neue Daten"
+    ],
+    "correctAnswer": "Belohnungsbasiertes Lernen"
+  },
+  {
+    "id": 5,
+    "title": "Frage 5",
+    "question": "Welche KI-Technologie wird verwendet, um menschliche Entscheidungsfindung zu imitieren und komplexe Probleme zu lösen?",
+    "image": "images/5.jpg",
+    "options": [
+      "Genetische Algorithmen",
+      "Expertensysteme",
+      "Fuzzy Logic",
+      "Simulierte Annealing"
+    ],
+    "correctAnswer": "Expertensysteme"
+  },
+  {
+    "id": 6,
+    "title": "Frage 6",
+    "question": "Welche KI-Anwendung wird oft in der Bilderkennung und medizinischen Diagnose eingesetzt?",
+    "image": "images/6.jpg",
+    "options": [
+      "Convolutional Neural Networks (CNN)",
+      "Recurrent Neural Networks (RNN)",
+      "Long Short-Term Memory (LSTM)",
+      "Autoencoder"
+    ],
+    "correctAnswer": "Convolutional Neural Networks (CNN)"
+  },
+  {
+    "id": 7,
+    "title": "Frage 7",
+    "question": "Was ist das Ziel von KI-Ethik und Responsible AI?",
+    "image": "images/7.jpg",
+    "options": [
+      "Maximierung von Gewinnen",
+      "Schutz der Privatsphäre",
+      "Beschleunigung der Entwicklung",
+      "Verbesserung der Rechenleistung"
+    ],
+    "correctAnswer": "Schutz der Privatsphäre"
+  },
+  {
+    "id": 8,
+    "title": "Frage 8",
+    "question": "Welche Herausforderung besteht beim Einsatz von KI in autonomen Fahrzeugen?",
+    "image": "images/8.jpg",
+    "options": [
+      "Rechenleistung",
+      "Datenintegration",
+      "Ethikprogrammierung",
+      "Hardwarebeschränkungen"
+    ],
+    "correctAnswer": "Ethikprogrammierung"
+  },
+  {
+    "id": 9,
+    "title": "Frage 9",
+    "question": "Was bezeichnet den Prozess, bei dem KI-Systeme ihre Leistung verbessern, indem sie mit neuen Daten lernen?",
+    "image": "images/9.jpg",
+    "options": [
+      "Overfitting",
+      "Generalisierung",
+      "Transfer Learning",
+      "Incremental Learning"
+    ],
+    "correctAnswer": "Incremental Learning"
+  },
+  {
+    "id": 10,
+    "title": "Frage 10",
+    "question": "Welche Rolle spielt Explainable AI (XAI) in der KI-Forschung?",
+    "image": "images/10.jpg",
+    "options": [
+      "Optimierung von Algorithmen",
+      "Interpretation von Modellen",
+      "Verbesserung der Hardware",
+      "Datenbeschaffung"
+    ],
+    "correctAnswer": "Interpretation von Modellen"
+  }
+]
