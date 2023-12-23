@@ -9,6 +9,8 @@ function App() {
   const [amount, setAmount] = useState(0)
   const currentQuestion = questionsData[currentQuestionIndex]
 
+  document.title = "Quiz-App"
+
   function handleAnswerClick(submittedAnswer) {
     if (submittedAnswer === currentQuestion.correctAnswer) {
       setPoints(points + 1)
