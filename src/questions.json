@@ -2,126 +2,131 @@
   {
     "id": 1,
     "title": "Frage 1",
-    "question": "Welche Art von künstlicher Intelligenz wird verwendet, um maschinelles Lernen ohne explizite Programmierung zu ermöglichen?",
-    "image": "images/1.jpg",
+    "question": "Was war ein herausragendes Merkmal der zweiten Welle der Künstlichen Intelligenz (KI)?",
+    "image": "images/1.png",
     "options": [
-      "Supervised Learning",
-      "Unsupervised Learning",
-      "Reinforcement Learning",
-      "Deep Learning"
+      "Virtuelle Realität",
+      "Aufkommen des maschinellen Lernens",
+      "Quantencomputing",
+      "Optische Bildgebung"
     ],
-    "correctAnswer": "Unsupervised Learning"
+    "correctAnswer": "Aufkommen des maschinellen Lernens"
   },
   {
     "id": 2,
     "title": "Frage 2",
-    "question": "Was ist der Hauptzweck von Natural Language Processing (NLP)?",
-    "image": "images/2.jpg",
+    "question": "Welche Technologie revolutionierte die Bilderkennung und Sprachverarbeitung durch komplexe Mustererkennung?",
+    "image": "images/2.png",
     "options": [
-      "Emotionserkennung",
-      "Sprachübersetzung",
-      "Gesichtserkennung",
-      "Objekterkennung"
+      "Augmented Reality",
+      "Blockchain-Technologie",
+      "3D-Druck",
+      "Deep Learning"
     ],
-    "correctAnswer": "Sprachübersetzung"
+    "correctAnswer": "Deep Learning"
   },
   {
     "id": 3,
     "title": "Frage 3",
-    "question": "Welche KI-Technik wird verwendet, um zukünftige Ereignisse basierend auf historischen Daten vorherzusagen?",
-    "image": "images/3.jpg",
-    "options": ["Regression", "Classification", "Clustering", "Forecasting"],
-    "correctAnswer": "Forecasting"
+    "question": "Welches Merkmal charakterisiert tiefe neuronale Netzwerke im Kontext des maschinellen Lernens?",
+    "image": "images/3.png",
+    "options": [
+      "Geringe Komplexität",
+      "Fähigkeit zur präzisen und tiefgreifenden Analyse",
+      "Einfache Struktur",
+      "Begrenzte Anwendungsbereiche"
+    ],
+    "correctAnswer": "Fähigkeit zur präzisen und tiefgreifenden Analyse"
   },
   {
     "id": 4,
     "title": "Frage 4",
-    "question": "Was ist das Hauptmerkmal von Reinforcement Learning?",
-    "image": "images/4.jpg",
+    "question": "Welche Hardwarekomponenten haben die Rechenleistung von Künstlicher Intelligenz erheblich gesteigert?",
+    "image": "images/4.png",
     "options": [
-      "Supervision durch Trainingsdaten",
-      "Belohnungsbasiertes Lernen",
-      "Unüberwachtes Lernen",
-      "Anpassung an neue Daten"
+      "Mechanische Festplatten",
+      "Optische Laufwerke",
+      "Grafikkarten (GPUs) und paralleles Computing",
+      "Kupferkabel"
     ],
-    "correctAnswer": "Belohnungsbasiertes Lernen"
+    "correctAnswer": "Grafikkarten (GPUs) und paralleles Computing"
   },
   {
     "id": 5,
     "title": "Frage 5",
-    "question": "Welche KI-Technologie wird verwendet, um menschliche Entscheidungsfindung zu imitieren und komplexe Probleme zu lösen?",
-    "image": "images/5.jpg",
+    "question": "Welche Anwendungsbereiche werden durch selbstfahrende Autos positiv beeinflusst?",
+    "image": "images/5.png",
     "options": [
-      "Genetische Algorithmen",
-      "Expertensysteme",
-      "Fuzzy Logic",
-      "Simulierte Annealing"
+      "Landwirtschaft und Viehzucht",
+      "Künstliche Intelligenz in der Raumfahrt",
+      "Sicherheit und Effizienz des Straßenverkehrs",
+      "Energieerzeugung durch erneuerbare Quellen"
     ],
-    "correctAnswer": "Expertensysteme"
+    "correctAnswer": "Sicherheit und Effizienz des Straßenverkehrs"
   },
   {
     "id": 6,
     "title": "Frage 6",
-    "question": "Welche KI-Anwendung wird oft in der Bilderkennung und medizinischen Diagnose eingesetzt?",
-    "image": "images/6.jpg",
+    "question": "Welche Anwendungsbereiche profitieren von Natural Language Processing (NLP)?",
+    "image": "images/6.png",
     "options": [
-      "Convolutional Neural Networks (CNN)",
-      "Recurrent Neural Networks (RNN)",
-      "Long Short-Term Memory (LSTM)",
-      "Autoencoder"
+      "Wettermessungen und -vorhersagen",
+      "Sprachübersetzungsdienste",
+      "Landwirtschaftliche Ernteoptimierung",
+      "Industrielle Robotik"
     ],
-    "correctAnswer": "Convolutional Neural Networks (CNN)"
+    "correctAnswer": "Sprachübersetzungsdienste"
   },
   {
     "id": 7,
     "title": "Frage 7",
-    "question": "Was ist das Ziel von KI-Ethik und Responsible AI?",
-    "image": "images/7.jpg",
+    "question": "Welche Funktion erfüllt Computer Vision im Kontext der Medizin?",
+    "image": "images/7.png",
     "options": [
-      "Maximierung von Gewinnen",
-      "Schutz der Privatsphäre",
-      "Beschleunigung der Entwicklung",
-      "Verbesserung der Rechenleistung"
+      "Navigation autonomer Roboter",
+      "Identifizierung von Gesichtern",
+      "Analyse komplexer medizinischer Bilder",
+      "Optimierung des Verkehrsflusses"
     ],
-    "correctAnswer": "Schutz der Privatsphäre"
+    "correctAnswer": "Analyse komplexer medizinischer Bilder"
   },
   {
     "id": 8,
     "title": "Frage 8",
-    "question": "Welche Herausforderung besteht beim Einsatz von KI in autonomen Fahrzeugen?",
-    "image": "images/8.jpg",
+    "question": "Welche Herausforderung ist mit KI-Systemen im Bereich Bias & Diskriminierung verbunden?",
+    "image": "images/8.png",
     "options": [
-      "Rechenleistung",
-      "Datenintegration",
-      "Ethikprogrammierung",
-      "Hardwarebeschränkungen"
+      "Steigerung der wirtschaftlichen Produktivität",
+      "Erhöhung der Energiespeicherkapazität",
+      "Unbeabsichtigte Verstärkung von Vorurteilen",
+      "Verbesserung der Internetgeschwindigkeit"
     ],
-    "correctAnswer": "Ethikprogrammierung"
+    "correctAnswer": "Unbeabsichtigte Verstärkung von Vorurteilen"
   },
   {
     "id": 9,
     "title": "Frage 9",
-    "question": "Was bezeichnet den Prozess, bei dem KI-Systeme ihre Leistung verbessern, indem sie mit neuen Daten lernen?",
-    "image": "images/9.jpg",
+    "question": "Warum sind KI-Systeme oft 'Black Boxes', und welche ethische Forderung ergibt sich daraus?",
+    "image": "images/9.png",
     "options": [
-      "Overfitting",
-      "Generalisierung",
-      "Transfer Learning",
-      "Incremental Learning"
+      "Aufgrund ihrer begrenzten Rechenkapazität",
+      "Aufgrund ihrer Transparenz und Erklärbarkeit",
+      "Aufgrund ihrer Fähigkeit zur Selbstreflexion",
+      "Aufgrund ihrer Unfähigkeit zur Entscheidungsfindung"
     ],
-    "correctAnswer": "Incremental Learning"
+    "correctAnswer": "Aufgrund ihrer Transparenz und Erklärbarkeit"
   },
   {
     "id": 10,
     "title": "Frage 10",
-    "question": "Welche Rolle spielt Explainable AI (XAI) in der KI-Forschung?",
-    "image": "images/10.jpg",
+    "question": "Warum können Maschinen keine eigene Moral oder Ethik im menschlichen Sinn haben?",
+    "image": "images/10.png",
     "options": [
-      "Optimierung von Algorithmen",
-      "Interpretation von Modellen",
-      "Verbesserung der Hardware",
-      "Datenbeschaffung"
+      "Aufgrund ihrer Fähigkeit zur Selbstreflexion",
+      "Aufgrund ihrer eigenen Gedanken und Emotionen",
+      "Aufgrund ihrer fehlenden Bewusstheit und Emotionen",
+      "Aufgrund ihrer menschenähnlichen Wertvorstellungen"
     ],
-    "correctAnswer": "Interpretation von Modellen"
+    "correctAnswer": "Aufgrund ihrer fehlenden Bewusstheit und Emotionen"
   }
 ]
