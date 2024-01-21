@@ -1,14 +1,14 @@
 import React from "react"
-import image1 from "../images/1.jpg"
-import image2 from "../images/2.jpg"
-import image3 from "../images/3.jpg"
-import image4 from "../images/4.jpg"
-import image5 from "../images/5.jpg"
-import image6 from "../images/6.jpg"
-import image7 from "../images/7.jpg"
-import image8 from "../images/8.jpg"
-import image9 from "../images/9.jpg"
-import image10 from "../images/10.jpg"
+import image1 from "../images/1.png"
+import image2 from "../images/2.png"
+import image3 from "../images/3.png"
+import image4 from "../images/4.png"
+import image5 from "../images/5.png"
+import image6 from "../images/6.png"
+import image7 from "../images/7.png"
+import image8 from "../images/8.png"
+import image9 from "../images/9.png"
+import image10 from "../images/10.png"
 
 export function Card({
   title,
@@ -22,34 +22,34 @@ export function Card({
   let imagePath
 
   switch (image) {
-    case "images/1.jpg":
+    case "images/1.png":
       imagePath = image1
       break
-    case "images/2.jpg":
+    case "images/2.png":
       imagePath = image2
       break
-    case "images/3.jpg":
+    case "images/3.png":
       imagePath = image3
       break
-    case "images/4.jpg":
+    case "images/4.png":
       imagePath = image4
       break
-    case "images/5.jpg":
+    case "images/5.png":
       imagePath = image5
       break
-    case "images/6.jpg":
+    case "images/6.png":
       imagePath = image6
       break
-    case "images/7.jpg":
+    case "images/7.png":
       imagePath = image7
       break
-    case "images/8.jpg":
+    case "images/8.png":
       imagePath = image8
       break
-    case "images/9.jpg":
+    case "images/9.png":
       imagePath = image9
       break
-    case "images/10.jpg":
+    case "images/10.png":
       imagePath = image10
       break
 
